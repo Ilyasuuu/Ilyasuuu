@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ilyasuuu
+- 👋 Hi, I’m @OuTCast
 - 👀 I’m interested in BACKEND DEVELOPMENT
-- 🌱 I’m currently learning PYTHON AND 
+- 🌱 I’m currently learning PYTHON and more 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8_ilyyasu on instagram 
+- 📫 How to reach me out_cast__20 on instagram 
 - ⚡fact: []
 
 <!---
