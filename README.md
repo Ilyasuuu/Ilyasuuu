@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OuTCast
+- 👋 Hi, I’m @DevIlyasJrny
 - 👀 I’m interested in BACKEND DEVELOPMENT
 - 🌱 I’m currently learning PYTHON and more 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me out_cast__20 on instagram 
+- 📫 How to reach me out on instagram : devilyasjrny 
 - ⚡fact: []
 
 <!---
