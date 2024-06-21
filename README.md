@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevIlyasJrny
-- 👀 I’m interested in BACKEND DEVELOPMENT
+- 👀 I’m interested in AI field
 - 🌱 I’m currently learning PYTHON and more 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me out on instagram : devilyasjrny 
