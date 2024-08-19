@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevIlyasJrny
+- 👋 Hi, I’m @Ilyas
 - 👀 I’m interested in AI field
 - 🌱 I’m currently learning PYTHON and more 
 - 💞️ I’m looking to collaborate on ...
